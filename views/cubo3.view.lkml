@@ -43,7 +43,7 @@ view: cubo3 {
   }
 
   dimension: month {
-    type: number
+    type: string
     sql: ${TABLE}.Month ;;
   }
 
